@@ -44,11 +44,6 @@ try:
         return data
 
 
-    def decrypt(encrypted):
-        b = 256
-        return ''.join([chr(int(c) - b % int(c)) for c in encrypted.split('/x')[1:]])
-
-
     def generate_key(length):
         return ''.join(random.choice(string.ascii_letters) for i in range(length))
 

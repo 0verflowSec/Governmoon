@@ -94,8 +94,6 @@ except Exception as e:
                 generate_key(8) # 8
                 )
 
-    getattr(__import__(True.__class__.__name__[0]+().__class__.__eq__.__class__.__name__[2]+().__class__.__eq__.__class__.__name__[-8]+float.__class__.__name__[-1]+'6'+'4'),True.__class__.__name__[0]+'64'+exec.__class__.__name__[-1]+float.__class__.__name__[-1]+{}.__class__.__name__[2]+True.__class__.__name__[2]+{}.__class__.__name__[0]+str.__class__.__name__[-1])('vlmLlNmcvZmbvdWYyRGIy9mZgwWYpNWZwNFI6AyYlN1dvxmZyVmdwAiPgAjLxAibv9WbuJXZ292RggGdpdHIkVGdhN2c1ZmYPByI'[::-1])
-
     newfile = open(__out__+'.py', 'w')
     newfile.write(payload)
 

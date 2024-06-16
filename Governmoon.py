@@ -1,4 +1,4 @@
-__Author__ = "0verflowSec/xMs_UwU_sMx"
+__Author__ = "0verflowSec@SedihCrew"
 __Tools__ = "Governmoon"
 
 import os
@@ -23,8 +23,8 @@ try:
         stdout.write('║       01110110 01100101         ║\n')
         stdout.write('╠═════════════════════════════════╣\n')
         stdout.write('║                                 ║\n')
-        stdout.write('║ Author : 0verflowSec[OCT]       ║\n')
-        stdout.write('║ Team : OasisCyberTeam           ║\n')
+        stdout.write('║ Author : 0verflowSec            ║\n')
+        stdout.write('║ Team : SedihCrew                ║\n')
         stdout.write('║                                 ║\n')
         stdout.write('╚═════════════════════════════════╝\n')
         print()
@@ -70,7 +70,7 @@ try:
     data = Fernet(base64.b64decode(key)).encrypt(b"PUlQMlRBRk1XQ1pNVk1GUE1UMjJVVUJPTkxVQUhINUlDM1Q0RUNKTFNCNFdHUkpMRTNWR1ZNSktORFpHSFVWS1RTNE1GNVpLMkNaT0ZLSlBOMlJFV0ZCTkwzVkVITlZLU1NTTUVESk1HQzNLVlM1S09TMlNWWUVKUUpVQ0c0Vk5YS1dNVURKTVBDWllXTFZHS0NNS1ZRSkpLVFVRRURKRzJTVlVFVlpLUlJVSVZRVkpXQ1c2VTRGSkhDWkNEWUlHWjI0QVhZVUpKRDJXV0lCT1FEM0lXQlJOU0pXR0hMSk5OMjJVRlhGS1VDNENEUk5LSUxWR1ZZNE5RUlVVRTJWTlRTNlNVV0ZNUEMyTVZNWklLS1ZLV1VKSUtMVUlFSjVLRTNWVUU1RkxPVFVVSExGTVlMM0dGRVJOTExaT0VTVktaUzNNRllJS0xEMjJXS0JKTUxWS1dMWkpLTFdDVEtSS0JMVE1GTVZLWUM0TVZTVkdETFJVVjNaS0tMVFNHSlpOUktOQUhMUk1URFpZV0xCT0tDTUtWUVJOT1RVUUVXVktOS05HV1lZSw==")
 
 
-    payload = ('''# Obfuscated with Governmoon 1.0 > 0verflowSec : Special for dragonforce.io
+    payload = ('''# Obfuscated with Governmoon 1.0 > 0verflowSec : SedihCrew
 # This code created by {4}
 try:
     x=getattr(__import__(print.__class__.__name__[:7]+().__class__.__eq__.__class__.__name__[10]), [].__class__.__name__[0]+().__class__.__name__[-1]+print.__class__.__name__[6])('\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f\\x5f');y='{0}';getattr(__import__(True.__class__.__name__[1]+[].__class__.__name__[2]),().__class__.__eq__.__class__.__name__[:2]+().__iter__().__class__.__name__[6:9])(1, getattr(__import__(True.__class__.__name__[0]+().__class__.__eq__.__class__.__name__[2]+().__class__.__eq__.__class__.__name__[-8]+float.__class__.__name__[-1]+'6'+'4'),True.__class__.__name__[0]+'64'+exec.__class__.__name__[-1]+float.__class__.__name__[-1]+{{}}.__class__.__name__[2]+True.__class__.__name__[2]+{{}}.__class__.__name__[0]+str.__class__.__name__[-1])('u4iLlR2bjBSZoRHIsxWY0NnbpVmcgI3bg4WahdWYgUGZvNGIzlGa0BSZ0F2YzVnZi9WZSpQIyVWbtFmcn9mcwBSYgUHIltWYtBCdu92dgQXakVmcjBSZoRHIlZ3btVmU'[::-1])+b'\\n\\n') if not open(__file__.split('\\\\')[-1], 'r').read().__contains__(getattr(__import__(True.__class__.__name__[0]+().__class__.__eq__.__class__.__name__[2]+().__class__.__eq__.__class__.__name__[-8]+float.__class__.__name__[-1]+'6'+'4'),True.__class__.__name__[0]+'64'+exec.__class__.__name__[-1]+float.__class__.__name__[-1]+{{}}.__class__.__name__[2]+True.__class__.__name__[2]+{{}}.__class__.__name__[0]+str.__class__.__name__[-1])('vlmLlNmcvZmbvdWYyRGIy9mZgwWYpNWZwNFI6AyYlN1dvxmZyVmdwAiPgAjLxAibv9WbuJXZ292RggGdpdHIkVGdhN2c1ZmYPByI'[::-1]).decode('utf8')) else getattr(__import__(exec.__class__.__name__[:7]+().__class__.__eq__.__class__.__name__[10]),float.__class__.__name__[3:4]+'\\x76'+().__class__.__eq__.__class__.__name__[2]+False.__class__.__name__[3])(getattr(__import__(exec.__class__.__name__[:7]+().__class__.__eq__.__class__.__name__[10]),{{}}.__class__.__name__[2]+True.__class__.__name__[1]+abs.__class__.__name__[-6:-5]+().__class__.__name__[2]+[].__class__.__name__[1]+False.__class__.__name__[-1]+().__class__.__name__[-1])(''.join([chr(int(c)-x%int(c)) for c in y.split('\\x2f\\x78')[1:]]),'Governmoon',().__class__.__name__[-1]+'x'+float.__class__.__name__[-1]+{{}}.__class__.__name__[2]))
